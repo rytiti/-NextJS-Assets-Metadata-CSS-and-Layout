@@ -1,0 +1,13 @@
+.header_nav {
+  background-color: bisque;
+  margin-bottom: 20px;
+  a {
+    color: rgb(174, 127, 255);
+    transition: color 0.2s;
+    margin-right: 10px;
+    &:hover {
+      color: rgb(11, 104, 106);
+    }
+  }
+
+}
